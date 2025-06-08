@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Banana, Drumstick, Watermelon, Basketball } from "lucide-react";
 import { motion } from "framer-motion";
 import dunkGif from "@/assets/dunk.gif"; // Example path
-import monkeySound from "@/assets/monkey.mp3"; // Example path
+import monkeySound from "@/assets/monkey-128368.mp3"; // Example path
 
 export default function MonkeysKfcWatermelon() {
   const [melonScore, setMelonScore] = useState(0);
